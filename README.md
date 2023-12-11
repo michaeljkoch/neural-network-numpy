@@ -1,2 +1,2 @@
 # neural-network-numpy
-Implementation of multi-layer perceptrons in NumPy
+Implementation of multi-layer perceptron in NumPy
